@@ -6,7 +6,7 @@ The study is currently being evaluated for publication on a scientific journal. 
 
 ## Methodological Aspects
 
-The experiment was conducted at Novo Milênio Farm in Luís Eduardo Magalhães, Bahia, Brazil (12°19'10.1" S; 45°54'18.8" W), on a plot with flat relief. The region's climate is classified as Aw (tropical with a dry winter) according to Köppen, with a mean annual temperature of 24ºC and an average annual precipitation of 1,200 mm. The study focused on cotton, following soybean as the previous crop during the 2017/18 growing season under a no-tillage system.
+The experiment was conducted at Novo Milênio Farm in Luís Eduardo Magalhães, Bahia, Brazil (12°19'10.1" S; 45°54'18.8" W), on a plot with flat relief. The region's climate is classified as Aw (tropical with a dry winter) according to Köppen, with a mean annual temperature of 24ºC and an average annual precipitation of 1,200 mm. The study focused on cotton on the 2018/19 season, following soybean as the previous crop during the 2017/18 growing season under a no-tillage system.
 
 Six fertilization treatments were evaluated, applying K₂O at 160 kg ha⁻¹ through different methods: pre-planting application of muriate of potash (MOP), polyhalite (Poly4), or a 50/50 blend of MOP/Poly4 (Blend), as well as post-planting (top-dressing) application of MOP and Poly4. A control treatment without K application was also included. The MOP used contained 60% K₂O, while Poly4 provided 14% K₂O, 19% S, 17% Ca, and 6% Mg.
 
@@ -14,7 +14,7 @@ The experiment followed a completely randomized block design with four replicati
 
 ### Leaf Sampling and Analysis
 
-On February 18, 2019, during the flowering stage, approximately 20 leaves with petioles from the fifth position from the apex were collected per plot. The samples were dried in an oven at 65°C for 72 hours, ground, and analyzed for N, P, K, Ca, Mg, S, B, Fe, Cu, Mn, and Zn levels, following the method of Malavolta et al. (1997).
+On February 18, 2019, during the flowering stage, approximately 20 leaves with petioles from the fifth position from the apex were collected per plot. The samples were dried in an oven at 65°C for 72 hours, ground, and analyzed for N, P, K, Ca, Mg, S, B, Fe, Cu, Mn, and Zn levels.
 
 ### Harvest and Fiber Quality Analysis
 
@@ -22,6 +22,6 @@ Harvesting occurred from June 29 to July 1, 2019. Thirty cotton bolls were colle
 
 ### Statistical Analysis
 
-Data were tested for homogeneity of variances using Bartlett’s test and for normality of residuals using the Shapiro-Wilk test (p < 0.05). If necessary, the Yeo-Johnson transformation was applied to meet ANOVA assumptions. Analysis of variance (ANOVA) was performed using the ExpDes.pt and easyanova packages (Arnhold, 2013) in R (R Core Team, 2024). When the F-test indicated significant differences between treatments (p < 0.10), the Scott-Knott test was used for multiple comparisons (p < 0.10). Some results were also visualized graphically using the ggplot2 package (Wickham, 2016) in R.
+Data were tested for homogeneity of variances using Bartlett’s test and for normality of residuals using the Shapiro-Wilk test (p < 0.05). If necessary, the Yeo-Johnson transformation was applied to meet ANOVA assumptions. Analysis of variance (ANOVA) was performed using the easyanova package (Arnhold, 2013) in R (R Core Team, 2024). When the F-test indicated significant differences between treatments (p < 0.10), the Scott-Knott test was used for multiple comparisons (p < 0.10). Some results were also visualized graphically using the ggplot2 package (Wickham, 2016) in R.
 
 
