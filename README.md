@@ -1,5 +1,7 @@
 # Data and Analysis Code for an Experiment on Potassium Fertilizer Sources and Application Methods in Cotton Cultivation on Cerrado Soils
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14901011.svg)](https://doi.org/10.5281/zenodo.14901011)
+
 This repository contains the data and R code for the statistical analysis and results visualization of a study aimed at evaluating the effects of different potassium fertilizer sources and application methods on cotton cultivation in Western Bahia.
 
 The study is currently being evaluated for publication on a scientific journal. After eventual publishing this repository will be updated with the DOI and link to the paper.
